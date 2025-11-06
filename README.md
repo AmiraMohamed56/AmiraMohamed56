@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Amira Mohamed:
 A passionate **Backend Developer** 🚀  
 🔭 I’m currently working on **Web Development**  
 🌱 I’m currently learning **Laravel**  
