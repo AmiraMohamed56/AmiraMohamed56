@@ -11,7 +11,6 @@ A passionate **Backend Developer** 🚀
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/amira-mohammed1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/AmiraMohamed56/AmiraMohamed56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="mailto:your.amiraawadd11@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" /></a>
 </p>
 
